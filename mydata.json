@@ -1,0 +1,119 @@
+[
+    {
+        "stud_id": "1",
+        "stud_name": "mitzz",
+        "stud_email": "mitz144@gmail.com",
+        "stud_num": "123456",
+        "stud_course": "Select your course",
+        "stud_img": "",
+        "stud_city": "surat"
+    },
+    {
+        "stud_id": "5",
+        "stud_name": "hiral",
+        "stud_email": "hiral123@gmail.com",
+        "stud_num": "997994525",
+        "stud_course": "Select your course",
+        "stud_img": "",
+        "stud_city": "navsarii"
+    },
+    {
+        "stud_id": "28",
+        "stud_name": "kl",
+        "stud_email": "df2@gmail.com",
+        "stud_num": "789466",
+        "stud_course": "Select your course",
+        "stud_img": "photo_2022-04-13_21-51-31.jpg",
+        "stud_city": "surat"
+    },
+    {
+        "stud_id": "30",
+        "stud_name": "my",
+        "stud_email": "mithun@gmail.com",
+        "stud_num": "78945612",
+        "stud_course": "js",
+        "stud_img": "WIN_20220127_03_13_41_Pro.jpg",
+        "stud_city": "dfdf"
+    },
+    {
+        "stud_id": "31",
+        "stud_name": "pinal",
+        "stud_email": "pin@gmail.com",
+        "stud_num": "456123",
+        "stud_course": "php",
+        "stud_img": "08565b53b760e442503d8583a2551f94.jpg",
+        "stud_city": "surat"
+    },
+    {
+        "stud_id": "32",
+        "stud_name": "hj",
+        "stud_email": "kl@gmail.com",
+        "stud_num": "12345578",
+        "stud_course": "laravel",
+        "stud_img": "portrait-attractive-shy-cheerful-girl-260nw-1954360084.webp",
+        "stud_city": "surat2"
+    },
+    {
+        "stud_id": "33",
+        "stud_name": "gomitz",
+        "stud_email": "go1@gmail.com",
+        "stud_num": "124567",
+        "stud_course": "laravel",
+        "stud_img": "607055d6-6ca3-4242-9f12-1d2e39cb2ef2.jpg",
+        "stud_city": "damann"
+    },
+    {
+        "stud_id": "34",
+        "stud_name": "ji",
+        "stud_email": "ji@gmail.com",
+        "stud_num": "456123",
+        "stud_course": "react",
+        "stud_img": "5ade9517-8028-4b90-ac6c-88c9eba9b237.jpg",
+        "stud_city": "hj"
+    },
+    {
+        "stud_id": "35",
+        "stud_name": "mk",
+        "stud_email": "jk@gmail.com",
+        "stud_num": "45623",
+        "stud_course": "",
+        "stud_img": "b2cee8fa-1f4b-4c1c-b883-f0eb875d4a9b.jpg",
+        "stud_city": "kl"
+    },
+    {
+        "stud_id": "36",
+        "stud_name": "kl",
+        "stud_email": "kl@gmail.com",
+        "stud_num": "4562",
+        "stud_course": "",
+        "stud_img": "b2cee8fa-1f4b-4c1c-b883-f0eb875d4a9b.jpg",
+        "stud_city": "mk"
+    },
+    {
+        "stud_id": "37",
+        "stud_name": "lopk",
+        "stud_email": "lo@gmail.com",
+        "stud_num": "78945",
+        "stud_course": "php",
+        "stud_img": "7c30efeb-0b74-42cb-8ee5-325e99b63bff.jpg",
+        "stud_city": "kl"
+    },
+    {
+        "stud_id": "38",
+        "stud_name": "kl",
+        "stud_email": "kl@gmail.com",
+        "stud_num": "789456",
+        "stud_course": "react",
+        "stud_img": "8b865dc8-6605-4c01-8dda-e34393df65f0.jpg",
+        "stud_city": "jamngr"
+    },
+    {
+        "stud_id": "39",
+        "stud_name": "mk",
+        "stud_email": "",
+        "stud_num": "0",
+        "stud_course": "",
+        "stud_img": "advertisements.jpg",
+        "stud_city": ""
+    }
+]
